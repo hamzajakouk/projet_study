@@ -1,0 +1,13 @@
+La Banque utilise également les mesures décrites ci-dessous pour évaluer ses résultats et le rapprochement quantitatif de ces mesures financières non conformes aux PCGR est présenté dans la section « Rapprochement des mesures financières non conformes aux PCGR » à la page 8.
+
+## Revenu net d'intérêts autre que de négociation ajusté
+
+Représente le revenu net d'intérêts autre que de négociation en équivalent imposable. Il comprend les revenus liés aux actifs et passifs financiers associés aux activités autres que de négociation, déduction faite des frais d'intérêts et des revenus d'intérêts liés au financement de ce s actifs et passifs financiers, et est utilisé dans le calcul de la marge nette d'intérêts autre que de négociation ajustée. L'équivalent imposable est ajouté au revenu net d'intérêts autre que de négociation afin de pouvoir comparer le rendement des différents éléments de l'actif sans égard à leur traitement fiscal .
+
+## Revenu net d'intérêts lié aux activités de négociation en équivalent imposable
+
+Représente le revenu net d'intérêts lié aux activités de négociation auquel on ajoute l'équivalent imposable. Il comprend les dividendes liés aux actifs et passifs financiers associés aux activités de négociation, et certains revenus d'intérêts liés au financement de ces actifs et passifs financiers, déduction faite des frais d'intérêts. L'équivalent imposable est ajouté au revenu net d'intérêts lié aux activités de négociation afin de pou voir comparer le rendement des différents éléments de l'actif sans égard à leur traitement fiscal .
+
+## Revenus autres que d'intérêts liés aux activités de négociation en équivalent imposable
+
+Représentent les revenus autres que d'intérêts liés aux activités de négociation auxquels on ajoute l'équivalent imposable. I ls comprennent les gains et les pertes réalisés et non réalisés ainsi que les revenus d'intérêts sur les valeurs mobilières évaluées à la juste valeur par le biais du résultat net, les revenus tirés des instruments financiers dérivés détenus à des fins de négociation, la variation de la juste valeur des prêts à la juste valeur par le biais du résultat net, la variation de la juste valeur des instruments financiers désignés à la juste valeur par le biais du résultat net, les gains et les pertes réalisés et non réalisés ainsi que les frais d'intérêts sur les engagements afférents à des titres vendus à découvert, certains revenus de commissions ainsi que d'autres revenus liés aux activités de négociation, et les frais de transactions s'il y a lieu. L'équivalent imposable est ajouté aux revenus autres que d'intérêts liés aux activités de négociation afin de pouvoir comparer le rendement des différents éléments de l'actif sans égard à leur traitement fiscal .

@@ -1,0 +1,180 @@
+{
+  "chunks": [
+    {
+      "text": "logo: BANQUE NATIONALE\n\n  • The image displays the official logo of Banque Nationale.\n  • The logo consists of a bold, red geometric shape resembling a stylized, angular flag or parallelogram on the left.\n  • To the right of the shape, the words \"BANQUE NATIONALE\" appear in uppercase, dark blue sans-serif font, stacked in two lines.\n  • The background is white, and there are no additional taglines, icons, or graphical elements.\n  • The logo is horizontally oriented, with the symbol and text aligned side by side.\n\nAnalysis :\n  • The use of red and dark blue conveys a sense of trust, stability, and authority, typical for financial institutions.\n  • The geometric shape is distinctive and modern, aiding brand recognition.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.06277252733707428,
+            "t": 0.07119879126548767,
+            "r": 0.388374388217926,
+            "b": 0.1456640511751175
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "89b39a39-3da5-4fdc-ad92-a440db33b309"
+    },
+    {
+      "text": "Rapport aux actionnaires",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05397897958755493,
+            "t": 0.1956973820924759,
+            "r": 0.38753581047058105,
+            "b": 0.2242356687784195
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dd14fd96-f6a5-4783-a1d8-2d140b18aa4c"
+    },
+    {
+      "text": "Troisième trimestre 2024",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.6182262897491455,
+            "t": 0.19543620944023132,
+            "r": 0.9439530372619629,
+            "b": 0.22432777285575867
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5b87d54f-661b-4031-ad2d-6b9b111a568a"
+    },
+    {
+      "text": "La Banque Nationale divulgue ses résultats du troisième trimestre de 2024.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.0543152391910553,
+            "t": 0.23059703409671783,
+            "r": 0.8850619792938232,
+            "b": 0.2575954794883728
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "208960d4-ea14-4199-8888-354f8a0169d3"
+    },
+    {
+      "text": "L’information financière contenue dans le présent document est basée sur les états financiers consolidés intermédiaires résumés non audités pour le trimestre et les neuf mois terminés le 31 juillet 2024 préparés selon les Normes internationales d’information financière (IFRS) telles que publiées par l’*International Accounting Standards Board* (IASB), sauf indication contraire. Les IFRS représentent les principes comptables généralement reconnus (PCGR) du Canada. Les symboles M$ et G$ désignent respectivement les millions et les milliards de dollars canadiens.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05357557535171509,
+            "t": 0.27611106634140015,
+            "r": 0.9354597330093384,
+            "b": 0.3253539204597473
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ae2d3390-522a-42a8-9636-efc72b4644be"
+    },
+    {
+      "text": "**MONTRÉAL, le 28 août 2024** – La Banque Nationale déclare un résultat net de 1 033 M$ au troisième trimestre de 2024 comparativement à 830 M$ au troisième trimestre de 2023, en hausse de 24 %. Le résultat dilué par action s’établit à 2,89 $ au troisième trimestre de 2024 par rapport à 2,33 $ au trimestre correspondant de 2023. Ces hausses s’expliquent par la bonne performance de tous les secteurs d’exploitation. En excluant les éléments particuliers (1), notamment les éléments liés à l’entente visant l’acquisition de la Banque canadienne de l’Ouest (*Canadian Western Bank* ou CWB) enregistrés au cours du troisième trimestre de 2024, le résultat net ajusté (1) se chiffre à 960 M$ et se compare à 781 M$ pour le trimestre correspondant de 2023. Le résultat dilué par action ajusté (1) se chiffre à 2,68 $ par rapport à 2,18 $ pour le troisième trimestre de 2023.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.053894639015197754,
+            "t": 0.33430832624435425,
+            "r": 0.9434654116630554,
+            "b": 0.41466087102890015
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "51488bff-82b0-4088-ba34-9f426f25dfec"
+    },
+    {
+      "text": "Le résultat net de la Banque pour les neuf mois terminés le 31 juillet 2024 se chiffre à 2 861 M$ par rapport à 2 538 M$ pour la période correspondante de 2023, en hausse de 13 %. Le résultat dilué par action atteint 8,03 $ pour les neuf mois terminés le 31 juillet 2024, contre 7,14 $ pour les neuf mois terminés le 31 juillet 2023. Ces hausses proviennent de la bonne performance de tous les secteurs d’exploitation attribuable à la croissance des revenus, en partie contrebalancée par l’augmentation des frais autres que d’intérêts, des dotations aux pertes de crédit et de la charge d’impôts. En excluant les éléments particuliers (1), le résultat net ajusté (1) pour les neuf mois terminés le 31 juillet 2024 s’élève à 2 788 M$ et se compare à 2 513 M$ pour la même période de 2023, en hausse de 11 %, et le résultat dilué par action ajusté (1) se chiffre à 7,82 $ par rapport à 7,06 $ pour les neuf mois terminés le 31 juillet 2023, en hausse de 11 %.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05382204055786133,
+            "t": 0.4245225489139557,
+            "r": 0.9438186883926392,
+            "b": 0.5168194770812988
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "695b68e1-9086-4d1b-8764-99598fedef62"
+    },
+    {
+      "text": "« Nos bons résultats au troisième trimestre reflètent notre modèle d’affaires diversifié et notre solide profil de crédit, ainsi que notre exécution disciplinée dans l’ensemble de la Banque », a commenté Laurent Ferreira, président et chef de la direction de la Banque Nationale du Canada. « Grâce à notre approche prudente au niveau du capital, du crédit et des coûts, nous demeurons bien positionnés dans un contexte macroéconomique complexe et nous sommes heureux des possibilités de croissance qui s’offrent à nous. »",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05453208088874817,
+            "t": 0.5272744297981262,
+            "r": 0.9262645244598389,
+            "b": 0.5810977816581726
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a2e10062-af0e-46a5-8111-d3ddd1055c2f"
+    },
+    {
+      "text": "I can see this is a financial data table in French showing key performance indicators. Let me transcribe it properly:\n\n<!--table-->\n<table>\n<tr>\n<th colspan=\"7\">Faits saillants</th>\n</tr>\n<tr>\n<th>(en millions de dollars canadiens)</th>\n<th colspan=\"3\">Trimestre terminé le 31 juillet</th>\n<th colspan=\"3\">Neuf mois terminés le 31 juillet</th>\n</tr>\n<tr>\n<th></th>\n<th>2024</th>\n<th>2023 <sup>(2)</sup></th>\n<th>Variation %</th>\n<th>2024</th>\n<th>2023 <sup>(2)</sup></th>\n<th>Variation %</th>\n</tr>\n<tr>\n<td>Résultat net</td>\n<td>1 033</td>\n<td>830</td>\n<td>24</td>\n<td>2 861</td>\n<td>2 538</td>\n<td>13</td>\n</tr>\n<tr>\n<td>Résultat dilué par action <i>(en dollars)</i></td>\n<td>2,89 $</td>\n<td>2,33 $</td>\n<td>24</td>\n<td>8,03 $</td>\n<td>7,14 $</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Résultat avant dotations aux pertes de crédit et charge d'impôts</td>\n<td>1 455</td>\n<td>1 086</td>\n<td>34</td>\n<td>3 994</td>\n<td>3 342</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Rendement des capitaux propres attribuables aux<br>détenteurs d'actions ordinaires <sup>(3)</sup></td>\n<td>18,4 %</td>\n<td>16,1 %</td>\n<td></td>\n<td>17,5 %</td>\n<td>17,0 %</td>\n<td></td>\n</tr>\n<tr>\n<td>Ratio de versement des dividendes <sup>(3)</sup></td>\n<td>41,6 %</td>\n<td>41,7 %</td>\n<td></td>\n<td>41,6 %</td>\n<td>41,7 %</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"7\">Résultats d'exploitation – ajustés <sup>(1)</sup></td>\n</tr>\n<tr>\n<td>Résultat net – ajusté</td>\n<td>960</td>\n<td>781</td>\n<td>23</td>\n<td>2 788</td>\n<td>2 513</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Résultat dilué par action – ajusté <i>(en dollars)</i></td>\n<td>2,68 $</td>\n<td>2,18 $</td>\n<td>23</td>\n<td>7,82 $</td>\n<td>7,06 $</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Résultat avant dotations aux pertes de crédit et charge d'impôts – ajusté</td>\n<td>1 448</td>\n<td>1 172</td>\n<td>24</td>\n<td>4 184</td>\n<td>3 690</td>\n<td>13</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"></td>\n<td></td>\n<td>Au 31 juillet<br>2024</td>\n<td>Au 31 octobre<br>2023</td>\n<td></td>\n</tr>\n<tr>\n<td>Ratio des fonds propres CET1 selon Bâle III <sup>(4)</sup></td>\n<td colspan=\"2\"></td>\n<td></td>\n<td>13,5 %</td>\n<td>13,5 %</td>\n<td></td>\n</tr>\n<tr>\n<td>Ratio de levier selon Bâle III <sup>(4)</sup></td>\n<td colspan=\"2\"></td>\n<td></td>\n<td>4,4 %</td>\n<td>4,4 %</td>\n<td></td>\n</tr>\n</table>",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05468454957008362,
+            "t": 0.5909122228622437,
+            "r": 0.9443973302841187,
+            "b": 0.8277854919433594
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "table",
+      "chunk_id": "7556447e-86a3-48bd-88bc-069ca05eea40"
+    },
+    {
+      "text": "1. Consulter le « Mode de présentation de l'information » aux pages 4 à 10 pour le détail des mesures financières non conformes aux PCGR.\n2. Certains montants ont été ajustés à la suite de modifications de méthodes comptables relatives à l'adoption de l'IFRS 17. Pour de plus amples renseignements, se reporter à la note 2 afférente aux états financiers consolidés intermédiaires résumés non audités pour le trimestre et les neuf mois terminés le 31 juillet 2024.\n3. Consulter le « Glossaire » aux pages 49 à 52 pour plus de détails sur la composition de ces mesures.\n4. Consulter le « Mode de présentation de l'information » aux pages 4 à 10 pour de plus amples renseignements sur les mesures de gestion du capital.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05433878302574158,
+            "t": 0.8346356153488159,
+            "r": 0.9100244045257568,
+            "b": 0.890515923500061
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a91e2ff4-f59f-4bf7-bd87-43788b19ea57"
+    }
+  ],
+  "source_file": "splits\\rapport-actionnaire-t3-2024-1.pdf",
+  "total_chunks": 10,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "pdf",
+  "errors": []
+}

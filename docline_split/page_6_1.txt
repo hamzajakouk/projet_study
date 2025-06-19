@@ -1,0 +1,27 @@
+## Frais autres que d'intérêts ajustés
+
+Représentent les frais autres que d'intérêts excluant les éléments particuliers, le cas échéant. Les éléments particuliers, l e cas échéant, sont exclus afin de mieux évaluer les frais autres que d'intérêts en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la performance financière sousjacente des activités d'exploitation de la Banque .
+
+## Résultat avant dotations aux pertes de crédit et charge d'impôts ajusté
+
+Représente le résultat avant dotations aux pertes de crédit et charge d'impôts en équivalent imposable et excluant les éléments particuliers, le cas échéant. Il représente également la différence entre le revenu total ajusté et les frais autres que d'intérêts ajustés. L'équivalent impo sable est ajouté au résultat avant dotations aux pertes de crédit et charge d'impôts afin de pouvoir comparer le rendement des différents éléments de l'actif sa ns égard à leur traitement fiscal et les éléments particuliers, le cas échéant, sont exclus afin de mieux évaluer le résultat avant dotations aux pertes de crédit et charge d'impôts en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la performance financière sous jacente des activités d'exploitation de la Banque -.
+
+## Charge d'impôts ajustée
+
+Représente la charge d'impôts en équivalent imposable et excluant la charge d'impôts liée aux éléments particuliers, le cas é chéant.
+
+## Résultat net ajusté
+
+Représente le résultat net excluant les éléments particuliers, le cas échéant. Les éléments particuliers, le cas échéant, sont exclus afin de mieux évaluer le résultat net en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la performance financière sous jacente des activités d'exploitation de -la Banque.
+
+## Résultat net attribuable aux actionnaires ordinaires ajusté
+
+Représente le résultat net attribuable aux actionnaires ordinaires excluant les éléments particuliers, le cas échéant. Les éléments particuliers, le cas échéant, sont exclus afin de mieux évaluer le résultat net attribuable aux actionnaires ordinaires en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la performance financière sousjacente des activités d'exploitation de la Banque .
+
+## Résultat de base par action ajusté
+
+Représente le résultat de base par action excluant les éléments particuliers, le cas échéant. Les éléments particuliers, le cas échéant, sont exclus afin de mieux évaluer le résultat de base par action en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la perfor mance financière sous-jacente des activités d'exploitation de la Banque .
+
+## Résultat dilué par action ajusté
+
+Représente le résultat dilué par action excluant les éléments particuliers, le cas échéant. Les éléments particuliers, le cas échéant, sont exclus afin de mieux évaluer le résultat dilué par action en ne tenant pas compte d'éléments qui, selon la direction, ne reflètent pas la performa nce financière sous-jacente des activités d'exploitation de la Banque.

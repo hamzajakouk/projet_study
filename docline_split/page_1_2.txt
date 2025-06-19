@@ -1,0 +1,20 @@
+## Faits saillants
+
+| (en millions de dollars canadiens)                                                  | Trimestre terminé le 31 juillet   | Trimestre terminé le 31 juillet   | Trimestre terminé le 31 juillet   | Trimestre terminé le 31 juillet   | Neuf mois terminés le 31 juillet   | Neuf mois terminés le 31 juillet   |
+|-------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|------------------------------------|------------------------------------|
+|                                                                                     | 2024                              | 2023 (2)                          | Variation %                       | 2024                              | 2023 (2)                           | Variation %                        |
+| Résultat net                                                                        | 1 033                             | 830                               | 24                                | 2 861                             | 2 538                              | 13                                 |
+| Résultat dilué par action (en dollars)                                              | 2,89                              | $ 2,33                            | $ 24                              | 8,03                              | $ 7,14                             | $ 12                               |
+| Résultat avant dotations aux pertes de crédit et charge d'impôts                    | 1 455                             | 1 086                             | 34                                | 3 994                             | 3 342                              | 20                                 |
+| Rendement des capitaux propres attribuables aux détenteurs d'actions ordinaires (3) | 18,4 %                            | 16,1                              | %                                 | 17,5 %                            | 17,0                               | %                                  |
+| Ratio de versement des dividendes (3)                                               | 41,6 %                            | 41,7                              | %                                 | 41,6 %                            | 41,7                               | %                                  |
+| Résultats d'exploitation - ajustés (1)                                              |                                   |                                   |                                   |                                   |                                    |                                    |
+| Résultat net - ajusté                                                               | 960                               | 781                               | 23                                | 2 788                             | 2 513                              | 11                                 |
+| Résultat dilué par action - ajusté (en dollars)                                     | 2,68                              | $ 2,18                            | $ 23                              | 7,82                              | $ 7,06                             | $ 11                               |
+| Résultat avant dotations aux pertes de crédit et charge d'impôts - ajusté           | 1 448                             | 1 172                             | 24                                | 4 184                             | 3 690                              | 13                                 |
+
+|                                                 | Au 31 juillet 2024   | Au 31 octobre 2023   |
+|-------------------------------------------------|----------------------|----------------------|
+| Ratio des fonds propres CET1 selon Bâle III (4) | 13,5 %               | 13,5 %               |
+| Ratio de levier selon Bâle III (4)              | 4,4 %                | 4,4 %                |
+
